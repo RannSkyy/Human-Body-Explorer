@@ -1,0 +1,6 @@
+{
+  "name": "Human Body Explorer",
+  "description": "Media pembelajaran interaktif berbasis web dan game untuk mengenal organ dan tubuh manusia tingkat SMP kelas VII-IX.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
